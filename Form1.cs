@@ -24,7 +24,7 @@ namespace WindowsFormsApp4
         private void Form1_Load(object sender, EventArgs e)
         {
             notifyIcon1.BalloonTipText = "Temp Remover Minimized.";
-            notifyIcon1.BalloonTipTitle = "test";
+            notifyIcon1.BalloonTipTitle = "Temp Remover Tray";
         }
 
         private void Form1_Resize(object sender, EventArgs e)
